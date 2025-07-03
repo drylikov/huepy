@@ -44,6 +44,7 @@ easy_install huepy
 ### Usage
 First of all, import everything that Hue has to offer as follows:
 
+
 ```python
 from huepy import *
 ```
