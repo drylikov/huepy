@@ -51,6 +51,7 @@ from huepy import *
 
 Printing colored text is as simple as doing
 
+
 ```python
 print(red('This string is red'))
 ```
