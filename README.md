@@ -56,6 +56,7 @@ Printing colored text is as simple as doing
 print(red('This string is red'))
 ```
 
+
 Easy right?
 But what if you want to print italic text?
 You can simply do this
