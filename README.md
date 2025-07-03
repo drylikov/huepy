@@ -137,6 +137,8 @@ bright colored strings. On the other hand, Hue supports both bright and bold
 strings. Also the *Ease to use* ratings are a result of my own experience and
 may differ for others.
 
+
+
 ### Contribution
 
 The only thing I think **Hue** needs is better windows compatibility. So if
