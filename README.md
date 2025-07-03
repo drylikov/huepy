@@ -28,6 +28,7 @@ Following labels are supported
 ![Hue Labels](https://i.imgur.com/8qBq0Zd.png)
 
 
+
 ### Installation
 You can install `hue` with **pip** as follows:
 ```
