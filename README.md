@@ -68,9 +68,11 @@ print(italic('This string is in italic'))
 
 You can also combine styles and colors
 
+
 ```python
 print(bold(red('This string is bold and red')))
 ```
+
 
 Output:
 ![Output Examples](https://i.imgur.com/Lo7ZyHq.png)
@@ -88,10 +90,12 @@ Take a look at the output of all the labels
 
 #### List of all colors
 
+
 ```python
 white, grey, black, green, lightgreen, cyan, lightcyan, red, lightred,
 blue, lightblue, purple, light purple, orange, yellow
 ```
+
 
 #### List of all styles
 
