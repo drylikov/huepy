@@ -11,6 +11,8 @@ in the terminal.\ It works with Python 2 as well as Python 3.
 What makes hue better than other coloring libraries? [Here's a
 comparison.](#why-hue)
 
+
+
 ## Supported Stuff
 
 Following styles are supported
