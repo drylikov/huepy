@@ -61,6 +61,7 @@ Easy right?
 But what if you want to print italic text?
 You can simply do this
 
+
 ```python
 print(italic('This string is in italic'))
 ```
